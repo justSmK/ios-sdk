@@ -8,6 +8,12 @@
 import XCTest
 @testable import TestAssignmentMindbox
 
+// Something something
+// Something something
+// Something something
+// Something something
+
+
 final class CircleTests: XCTestCase {
 
     var circle: CircleProtocol!
